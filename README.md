@@ -39,7 +39,7 @@ Công cụ hỗ trợ nhà đầu tư phân tích, giao dịch các hợp đồn
 
 | Phiên bản | Windows OS | Mac OS |
 |-------|------------|----------------|
-| VN30F1M Trading Tool<br />(Phiên bản mới nhất) | [Windows 11 hoặc lớn hơn](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-windows.exe) | [Mac darwin-x64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-darwin-x64.dmg) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-darwin-aarch64.dmg) |
+| VN30F1M Trading Tool<br />(Phiên bản mới nhất) | [Windows 11 hoặc lớn hơn]([https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/)) | [Mac darwin-x64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) |
 
 </div>
 
@@ -104,7 +104,7 @@ This tool helps investors analyze and trade VN30 index futures contracts, includ
 
 | Version | Windows OS | Mac OS |  
 |---------|-----------|--------|  
-| VN30F1M Trading Tool<br />(Latest Version) | [Windows 11 or later](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-windows.exe) | [Mac darwin-x64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-darwin-x64.dmg) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-darwin-aarch64.dmg) |  
+| VN30F1M Trading Tool<br />(Latest Version) | [Windows 11 or later](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) | [Mac darwin-x64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) |  
 
 </div>
 
