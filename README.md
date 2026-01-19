@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/A369-Tools/StockUp-Free-Trading-Tool/blob/main/stockup-logo.svg?raw=true" width="30%" alt="StockUp" />
+  <img src="https://github.com/A369-Tools/VN30-Trading-Tool/blob/main/stockup-logo.svg?raw=true" width="30%" alt="StockUp" />
 </div>
 <hr>
 
@@ -25,7 +25,7 @@
 
 Chúng tôi tạo ra công cụ giao dịch chứng khoán dành cho tất cả nhà đầu tư chứng khoán phái sinh tại Việt Nam. Công cụ hoàn toàn miễn phí để bạn có thể tải về và sử dụng trong quá trình giao dịch phái sinh của mình.
 
-Công cụ hỗ trợ nhà đầu tư phân tích, giao dịch các hợp đồng tương lai chỉ số VN30 gồm **VN30F1M**, **VN30F2M**, **VN30F1Q** và **VN30F2Q**.
+Công cụ hỗ trợ nhà đầu tư phân tích, giao dịch các hợp đồng tương lai chỉ số VN30 gồm **VN30F1M**.
 
 ## 2. Mục tiêu
 
@@ -39,36 +39,36 @@ Công cụ hỗ trợ nhà đầu tư phân tích, giao dịch các hợp đồn
 
 | Phiên bản | Windows OS | Mac OS |
 |-------|------------|----------------|
-| StockUp - Free Trading Tool<br />(Phiên bản mới nhất) | [Windows 11 hoặc lớn hơn](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-windows.exe) | [Mac darwin-x64](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-darwin-x64.dmg) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-darwin-aarch64.dmg) |
+| VN30F1M Trading Tool<br />(Phiên bản mới nhất) | [Windows 11 hoặc lớn hơn](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-windows.exe) | [Mac darwin-x64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-darwin-x64.dmg) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-darwin-aarch64.dmg) |
 
 </div>
 
-Hoặc tải và cài đặt phiên bản cũ hơn của chúng tôi tại: [https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases)
+Hoặc tải và cài đặt phiên bản cũ hơn của chúng tôi tại: [https://github.com/A369-Tools/VN30-Trading-Tool/releases](https://github.com/A369-Tools/VN30-Trading-Tool/releases)
 
 ## 4. Hướng dẫn sử dụng
 
-Xem hướng dẫn sử dụng công cụ giao dịch chứng khoán phái sinh **StockUp - Free Trading Tool** [tại đây](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/blob/main/docs).
+Xem hướng dẫn sử dụng công cụ giao dịch chứng khoán phái sinh **VN30F1M Trading Tool** [tại đây](https://github.com/A369-Tools/VN30-Trading-Tool/blob/main/docs).
  
 
 ## 5. Báo lỗi & yêu cầu tính năng
 
-Trong quá trình sử dụng bạn gặp lỗi hoặc mong muốn có một tính năng mới từ công cụ giao dịch chứng khoán phái sinh **StockUp - Free Trading Tool**. Hãy tạo một yêu cầu tại: [https://github.com/A369-Tools/StockUp-Free-Trading-Tool/issues](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/issues) hoặc email cho chúng tôi theo địa chỉ [support@stockup.vn](support@stockup.vn)
+Trong quá trình sử dụng bạn gặp lỗi hoặc mong muốn có một tính năng mới từ công cụ giao dịch chứng khoán phái sinh **VN30F1M Trading Tool**. Hãy tạo một yêu cầu tại: [https://github.com/A369-Tools/VN30-Trading-Tool/issues](https://github.com/A369-Tools/VN30-Trading-Tool/issues) hoặc email cho chúng tôi theo địa chỉ [a369.investment@gmail.com](a369.investment@gmail.com)
 
 ## 6. Bản quyền
 
-Công cụ này được cấp phép theo [Giấy phép MIT](LICENSE-CODE). Việc sử dụng **StockUp - Free Trading Tool** phải tuân theo Giấy phép mô hình.
+Công cụ này được cấp phép theo [Giấy phép MIT](LICENSE-CODE). Việc sử dụng **VN30F1M Trading Tool** phải tuân theo Giấy phép mô hình.
 
 ## 7. Liên hệ và hỗ trợ
 
-Nếu bạn có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi theo địa chỉ [support@stockup.vn](support@stockup.vn)
+Nếu bạn có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi theo địa chỉ [a369.investment@gmail.com](a369.investment@gmail.com)
 
 ## 8. Thu thập thông tin
 
-Công cụ **StockUp - Free Trading Tool** chỉ thu thập thông tin lỗi của công cụ được ghi lại trong quá trình bạn sử dụng công cụ. Việc thu thập lỗi nhằm mục đích để cải thiện, sửa lỗi cho công cụ. Ngoài ra, chúng tôi **KHÔNG** thu thập các thông tin liên quan đến bạn, tài khoản chứng khoán, số dư, quá trình giao dịch, lãi/lỗ... của bạn. Tất cả những dữ liệu mà bạn nhập vào ứng dụng sẽ được lưu trữ tại máy mà bạn cài đặt công cụ và bạn có toàn quyền kiểm soát dữ liệu này.
+Công cụ **VN30F1M Trading Tool** chỉ thu thập thông tin lỗi của công cụ được ghi lại trong quá trình bạn sử dụng công cụ. Việc thu thập lỗi nhằm mục đích để cải thiện, sửa lỗi cho công cụ. Ngoài ra, chúng tôi **KHÔNG** thu thập các thông tin liên quan đến bạn, tài khoản chứng khoán, số dư, quá trình giao dịch, lãi/lỗ... của bạn. Tất cả những dữ liệu mà bạn nhập vào ứng dụng sẽ được lưu trữ tại máy mà bạn cài đặt công cụ và bạn có toàn quyền kiểm soát dữ liệu này.
 
 ## 9. MIỄN TRỪ TRÁCH NHIỆM
 
-Khi bạn tải về, cài đặt và sử dụng **StockUp - Free Trading Tool** đồng nghĩa với bạn hiểu, đồng ý và chấp nhận mọi rủi ro liên quan khi sử dụng công cụ. StockUp không liên quan, không chịu trách nhiệm trong bất kỳ trường hợp nào xảy ra với tài khoản chứng khoán, số dư, quá trình giao dịch, lãi/lỗ... của bạn.
+Khi bạn tải về, cài đặt và sử dụng **VN30F1M Trading Tool** đồng nghĩa với bạn hiểu, đồng ý và chấp nhận mọi rủi ro liên quan khi sử dụng công cụ. StockUp không liên quan, không chịu trách nhiệm trong bất kỳ trường hợp nào xảy ra với tài khoản chứng khoán, số dư, quá trình giao dịch, lãi/lỗ... của bạn.
 
 <hr>
 
@@ -90,7 +90,7 @@ Khi bạn tải về, cài đặt và sử dụng **StockUp - Free Trading Tool*
 
 We have created a stock trading tool for all derivative stock investors in Vietnam. The tool is completely free to download and use during your derivative trading activities.
 
-This tool helps investors analyze and trade VN30 index futures contracts, including **VN30F1M**, **VN30F2M**, **VN30F1Q**, and **VN30F2Q**.
+This tool helps investors analyze and trade VN30 index futures contracts, including **VN30F1M**.
 
 ## 2. Objectives
 
@@ -104,35 +104,35 @@ This tool helps investors analyze and trade VN30 index futures contracts, includ
 
 | Version | Windows OS | Mac OS |  
 |---------|-----------|--------|  
-| StockUp - Free Trading Tool<br />(Latest Version) | [Windows 11 or later](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-windows.exe) | [Mac darwin-x64](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-darwin-x64.dmg) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-darwin-aarch64.dmg) |  
+| VN30F1M Trading Tool<br />(Latest Version) | [Windows 11 or later](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-windows.exe) | [Mac darwin-x64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-darwin-x64.dmg) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/VN30-Trading-Tool-darwin-aarch64.dmg) |  
 
 </div>
 
-Or download and install an older version from: [https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases)  
+Or download and install an older version from: [https://github.com/A369-Tools/VN30-Trading-Tool/releases](https://github.com/A369-Tools/VN30-Trading-Tool/releases)  
 
 ## 4. User Guide  
 
-View the user guide for **StockUp - Free Trading Tool** [here](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/blob/main/docs).  
+View the user guide for **VN30F1M Trading Tool** [here](https://github.com/A369-Tools/VN30-Trading-Tool/blob/main/docs).  
 
 ## 5. Bug Reports & Feature Requests  
 
-If you encounter any issues or wish to request a new feature for **StockUp - Free Trading Tool**, please create a request at: [https://github.com/A369-Tools/StockUp-Free-Trading-Tool/issues](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/issues) or email us at [support@stockup.vn](support@stockup.vn).  
+If you encounter any issues or wish to request a new feature for **VN30F1M Trading Tool**, please create a request at: [https://github.com/A369-Tools/VN30-Trading-Tool/issues](https://github.com/A369-Tools/VN30-Trading-Tool/issues) or email us at [a369.investment@gmail.com](a369.investment@gmail.com).  
 
 ## 6. License  
 
-This tool is licensed under the [MIT License](LICENSE-CODE). The use of **StockUp - Free Trading Tool** must comply with the license model.  
+This tool is licensed under the [MIT License](LICENSE-CODE). The use of **VN30F1M Trading Tool** must comply with the license model.  
 
 ## 7. Contact & Support  
 
-If you have any questions, please contact us at [support@stockup.vn](support@stockup.vn).  
+If you have any questions, please contact us at [a369.investment@gmail.com](a369.investment@gmail.com).  
 
 ## 8. Data Collection  
 
-The **StockUp - Free Trading Tool** only collects error logs recorded during tool usage. This data is collected solely for the purpose of improving and fixing issues within the tool.  
+The **VN30F1M Trading Tool** only collects error logs recorded during tool usage. This data is collected solely for the purpose of improving and fixing issues within the tool.  
 
 Additionally, we **DO NOT** collect any personal information, stock account details, balance, trading history, profit/loss data, etc. All data entered into the application is stored locally on the device where the tool is installed, and you have full control over this data.  
 
 ## 9. DISCLAIMER  
 
-By downloading, installing, and using **StockUp - Free Trading Tool**, you acknowledge, agree, and accept all risks associated with using the tool. StockUp is not affiliated with and assumes no responsibility for any issues related to your stock account, balance, trading activities, profit/loss, or other related matters.
+By downloading, installing, and using **VN30F1M Trading Tool**, you acknowledge, agree, and accept all risks associated with using the tool. StockUp is not affiliated with and assumes no responsibility for any issues related to your stock account, balance, trading activities, profit/loss, or other related matters.
 
