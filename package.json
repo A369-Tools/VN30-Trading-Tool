@@ -1,0 +1,20 @@
+{
+  "name": "vn30f1m-trading-tool",
+  "productName": "VN30F1M Trading Tool (By stockup.vn)",
+  "description": "A Trading App for VN30F1M. Built with ❤️ by the stockup.vn",
+  "author": {
+    "name": "stockup.vn",
+    "email": "a369.investment@gmail.com"
+  },
+  "version": "1.0.2",
+  "keywords": [
+    "vn30f1m",
+    "Hợp đồng tương lai VN30",
+    "Chứng khoán phái sinh",
+    "Trading",
+    "VN30",
+    "Giao dịch phái sinh",
+    "stockup.vn",
+    "Giao dịch phái sinh tự động",
+  ]
+}
