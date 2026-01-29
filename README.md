@@ -39,7 +39,7 @@ Công cụ hỗ trợ nhà đầu tư phân tích, giao dịch các hợp đồn
 
 | Phiên bản | Windows OS | Mac OS |
 |-------|------------|----------------|
-| VN30F1M Trading Tool<br />(Phiên bản mới nhất) | [Windows 11 hoặc lớn hơn]([https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/)) | [Mac darwin-x64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) |
+| VN30F1M Trading Tool<br />(Phiên bản mới nhất) | [Windows 11 hoặc lớn hơn](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) | [Mac darwin-x64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/VN30-Trading-Tool/releases/latest/) |
 
 </div>
 
@@ -60,7 +60,11 @@ Công cụ này được cấp phép theo [Giấy phép MIT](LICENSE-CODE). Vi�
 
 ## 7. Liên hệ và hỗ trợ
 
-Nếu bạn có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi theo địa chỉ [a369.investment@gmail.com](a369.investment@gmail.com)
+Nếu bạn có bất kỳ thắc mắc, vui lòng liên hệ với chúng tôi: 
+
+Email: [a369.investment@gmail.com](a369.investment@gmail.com)
+
+Tham gia nhóm cộng đồng: [Giao dịch phái sinh VN30](https://discord.gg/j5cUMyuecu)
 
 ## 8. Thu thập thông tin
 
@@ -124,7 +128,11 @@ This tool is licensed under the [MIT License](LICENSE-CODE). The use of **VN30F1
 
 ## 7. Contact & Support  
 
-If you have any questions, please contact us at [a369.investment@gmail.com](a369.investment@gmail.com).  
+If you have any questions, please contact us.  
+
+Email: [a369.investment@gmail.com](a369.investment@gmail.com)
+
+Join Our Community: [Discord VN30 Trading Tool](https://discord.gg/j5cUMyuecu)
 
 ## 8. Data Collection  
 
