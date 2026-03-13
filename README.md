@@ -68,7 +68,7 @@ Tham gia nhóm cộng đồng: [Giao dịch phái sinh VN30](https://discord.gg/
 
 ## 8. Thu thập thông tin
 
-Công cụ **VN30F1M Trading Tool** chỉ thu thập thông tin lỗi của công cụ được ghi lại trong quá trình bạn sử dụng công cụ. Việc thu thập lỗi nhằm mục đích để cải thiện, sửa lỗi cho công cụ. Ngoài ra, chúng tôi **KHÔNG** thu thập các thông tin liên quan đến bạn, tài khoản chứng khoán, số dư, quá trình giao dịch, lãi/lỗ... của bạn. Tất cả những dữ liệu mà bạn nhập vào ứng dụng sẽ được lưu trữ tại máy mà bạn cài đặt công cụ và bạn có toàn quyền kiểm soát dữ liệu này.
+Công cụ **VN30F1M Trading Tool** chỉ thu thập thông tin lỗi của công cụ được ghi lại trong quá trình bạn sử dụng công cụ và các thông tin cần thiết phục vụ cho quá trình sử dụng ứng dụng. Việc thu thập lỗi nhằm mục đích để cải thiện, sửa lỗi cho công cụ, tính phí dịch vụ. Ngoài ra, chúng tôi **KHÔNG** thu thập các thông tin khác. Tất cả những dữ liệu mà bạn nhập vào ứng dụng sẽ được lưu trữ tại máy mà bạn cài đặt công cụ và bạn có toàn quyền kiểm soát dữ liệu này.
 
 ## 9. MIỄN TRỪ TRÁCH NHIỆM
 
@@ -136,9 +136,7 @@ Join Our Community: [Discord VN30 Trading Tool](https://discord.gg/j5cUMyuecu)
 
 ## 8. Data Collection  
 
-The **VN30F1M Trading Tool** only collects error logs recorded during tool usage. This data is collected solely for the purpose of improving and fixing issues within the tool.  
-
-Additionally, we **DO NOT** collect any personal information, stock account details, balance, trading history, profit/loss data, etc. All data entered into the application is stored locally on the device where the tool is installed, and you have full control over this data.  
+The **VN30F1M Trading Tool** only collects error logs recorded during your usage and essential information required for the application's operation. This data collection is intended solely for troubleshooting, improving the tool, and service billing purposes. Aside from this, we DO NOT collect any other information. All data you enter into the application is stored locally on your device, and you have full control over this data.  
 
 ## 9. DISCLAIMER  
 
